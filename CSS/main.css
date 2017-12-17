@@ -20,7 +20,7 @@ h2 {
 	padding: 250px 0;
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+  background-image: url("https://www.mormonchannel.org/bc/content/mormon-channel/images/audio/1600x900/joseph-smith-for-president-episode-64-2011-10-18.jpg");
   background-size: cover;
   color: #ffffff;
 }
@@ -33,6 +33,7 @@ p {
 #footer {
   font-size: 0.75rem;
 }
+
 
 
 
