@@ -25,6 +25,13 @@ h2 {
   color: #ffffff;
 }
 
+@media screen and (min-width: 480px) {
+    body {
+        padding: 0;
+	margin: 0;
+    }
+}
+
 
 p {
   font-size: 2rem;
